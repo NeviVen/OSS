@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/RELEASE"
+LINK : fatal error LNK1561: точка входа должна быть определена
